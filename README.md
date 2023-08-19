@@ -1,7 +1,7 @@
 # 用友NC系列漏洞检测利用工具
 
 <a href="https://github.com/wgpsec/YongYouNcTool"><img alt="Release" src="https://img.shields.io/badge/YongYouNcTool-1.0-ff69b4"></a>
-<a href="https://github.com/wgpsec/YongYouNcTool"><img alt="Release" src="https://img.shields.io/badge/LICENSE-GPL-important"></a>
+<a href="https://github.com/wgpsec/YongYouNcTool"><img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-GPL-important"></a>
 ![GitHub Repo stars](https://img.shields.io/github/stars/wgpsec/YongYouNcTool?color=success)
 ![GitHub forks](https://img.shields.io/github/forks/wgpsec/YongYouNcTool)
 ![GitHub all release](https://img.shields.io/github/downloads/wgpsec/YongYouNcTool/total?color=blueviolet)  
